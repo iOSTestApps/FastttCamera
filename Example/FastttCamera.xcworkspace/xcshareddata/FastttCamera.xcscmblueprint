@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E3AA66F3670798BA2103D1449BFEE1B21C931FA7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D3239580941E345AB636F3B382D35AC2CB008F45" : 0,
+    "E3AA66F3670798BA2103D1449BFEE1B21C931FA7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7A85EEC2-FE0B-4E6D-9DA5-A70F5921FA49",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D3239580941E345AB636F3B382D35AC2CB008F45" : "..",
+    "E3AA66F3670798BA2103D1449BFEE1B21C931FA7" : "FastttCamera\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FastttCamera",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/FastttCamera.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BuddyBuild\/BB.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D3239580941E345AB636F3B382D35AC2CB008F45"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:iOSTestApps\/FastttCamera.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E3AA66F3670798BA2103D1449BFEE1B21C931FA7"
+    }
+  ]
+}

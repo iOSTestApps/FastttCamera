@@ -258,6 +258,7 @@
 				TargetAttributes = {
 					FAC389921A8928440005EFDD = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = XYL49Z8YJS;
 					};
 					FAC389AB1A8928440005EFDD = {
 						CreatedOnToolsVersion = 6.1.1;
